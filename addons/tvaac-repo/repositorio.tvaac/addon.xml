@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repositorio.tvAAC" name="tvAAC repositorio" version="1.0" provider-name="tvAAC">
+<addon id="repositorio.tvaac" name="tvAAC repositorio" version="1.0" provider-name="tvAAC">
 	<extension point="xbmc.addon.repository" name="tvAAC Addon repositorio">
 		<info compressed="false">http://tvaac-repo.googlecode.com/svn/addons/tvaac-repo/addons.xml</info>
 		<checksum>http://tvaac-repo.googlecode.com/svn/addons/tvaac-repo/addons.xml.md5</checksum>
