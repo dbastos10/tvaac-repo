@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tvAAC"
+<addon id="plugin.video.tvaac"
        name="tvAAC"
        version="0.1.00"
        provider-name="tvAAC">
