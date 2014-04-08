@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tvaac" name="tvaac repositorio" version="1.0" provider-name="tvaac">
-	<extension point="xbmc.addon.repository" name="tvaac repositorio">
+<addon id="repository.tvAAC" name="tvAAC repositorio" version="1.0" provider-name="tvAAC">
+	<extension point="xbmc.addon.repository" name="tvAAC Addon repositorio">
 		<info compressed="false">http://tvaac-repo.googlecode.com/svn/addons/tvaac-repo/addons.xml</info>
 		<checksum>http://tvaac-repo.googlecode.com/svn/addons/tvaac-repo/addons.xml.md5</checksum>
 		<datadir zip="true">http://tvaac-repo.googlecode.com/svn/addons/tvaac-repo/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Stream em directo e videos da tvAAC</summary>
-		<description>Addon da Televisao da Associacao Academica de Coimbra. Visita o site oficial - http://tv.aac.uc.pt/</description>
+		<summary>Repositorio do Addon da tvAAC</summary>
+		<description>Repositorio da Televisao da Associacao Academica de Coimbra. Visita o site oficial - http://tv.aac.uc.pt/</description>
 		<platform>all</platform>
 	</extension>
 </addon>
